@@ -1,20 +1,24 @@
-# TuteDude UI/UX Hackathon 🎨
+TuteDude UI/UX Hackathon 🎨
 
 A UI/UX redesign project created for the TuteDude UI/UX Hackathon.
 
-## 🔗 Figma Design
+🔗 Figma Design
 
-[View the complete project on Figma](https://www.figma.com/design/Eex6Wnc7PixctBVby2W8lN/Tutedude-Hackathon?node-id=2-3&t=rGe7YoofLb3hoglF-1)
+"View the complete project on Figma" (https://www.figma.com/design/Eex6Wnc7PixctBVby2W8lN/Tutedude-Hackathon?node-id=2-3&t=rGe7YoofLb3hoglF-1)
 
-## 📱 Mobile Design
+📱 Mobile Design
 
-![Mobile Design](screenshots/mobile-home.png)
+"Mobile Home Page" (Screenshots/mobile%20page/HOME-MOBILE.png)
 
-## 💻 Desktop Design
+"Mobile Course Page" (Screenshots/mobile%20page/course-mobile.png)
 
-![Desktop Design](screenshots/desktop-home.png)
+💻 Desktop Design
 
-## ✨ Project Highlights
+"Desktop Home Page" (Screenshots/desktop%20page/Desktop%20HomePage.png)
+
+"Desktop Course Page" (Screenshots/desktop%20page/Course-DESKTOP.png)
+
+✨ Project Highlights
 
 - Designed both mobile and desktop experiences
 - Created a clean and modern course-learning interface
@@ -22,13 +26,13 @@ A UI/UX redesign project created for the TuteDude UI/UX Hackathon.
 - Added responsive navigation and call-to-action sections
 - Created a clickable desktop prototype in Figma
 
-## 🛠️ Tools Used
+🛠️ Tools Used
 
 - Figma
 - UI/UX Design
-- Prototyping
 - Wireframing
+- Prototyping
 
-## 👩‍💻 Designer
+👩‍💻 Designer
 
 Puja Maharana

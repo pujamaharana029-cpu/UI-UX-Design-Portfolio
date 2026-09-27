@@ -36,3 +36,6 @@ A UI/UX redesign project created for the TuteDude UI/UX Hackathon.
 👩‍💻 Designer
 
 Puja Maharana
+
+#status
+completed as part of the Tutedude UI/UX Hackathon.
